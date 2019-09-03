@@ -21,8 +21,3 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 
 - #### Route Api
 
-
-If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
-
-    $ npm install npm -g
-
